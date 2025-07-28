@@ -41,3 +41,7 @@ mdp: 5447
 *****Compte APEAX (Mon entreprise)
 Email: juleschristgbassi9@gmail.com
 Mot de passe: Jules-christ@gbassi
+
+*****Mail Netsafe pro
+mail: netsafepro229@gmail.com
+mot de passe: Netsafepro @229
