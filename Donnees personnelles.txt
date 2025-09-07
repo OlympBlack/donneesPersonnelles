@@ -12,7 +12,7 @@ mdp: Jules-christ gbassi
 
 ******Email 2
 addresse: gbassijuleschrist@gmail.com 
-mdp: Jules-christ GBASSI	
+mdp: code secret	
 
 ******orange host (lavoixdabouloussi)
 addresse: my.orangehost.com
