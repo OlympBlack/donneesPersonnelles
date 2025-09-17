@@ -53,3 +53,7 @@ password: code secret
 *****mail Xavier Weber
 mail: weberxavier24@gmail.com
 password: code secret
+
+*****mail admin electroardin
+mail: admin@gmail.com
+password: 1111
