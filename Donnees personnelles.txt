@@ -57,3 +57,7 @@ password: code secret
 *****mail admin electroardin
 mail: admin@gmail.com
 password: 1111
+
+***** NASA Space Apps challenge
+username: OlympBlack
+password: Jules-christ6
