@@ -65,3 +65,7 @@ password: Jules-christ6
 ******* mail secret 
 mail: ayetobi40@gmail.com
 password: code secret
+
+****** compte hostinger secret
+mail: ayetobi40@gmail.com
+password: Jules-christ6
