@@ -69,3 +69,7 @@ password: code secret
 ****** compte hostinger secret
 mail: ayetobi40@gmail.com
 password: Jules-christ6
+
+****** mail credium
+mail: contact@credium.online
+password: Credium@123456
