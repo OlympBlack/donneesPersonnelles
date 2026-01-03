@@ -78,3 +78,7 @@ password: Credium@123456
 number: 4577 9300 4162 9539
 expiry: 30-NOV-2025
 CVV: 965
+
+*****mail toto
+mail: testtoto397@gmail.com
+password: code secret
