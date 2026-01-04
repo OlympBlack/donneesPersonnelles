@@ -86,3 +86,7 @@ password: code secret
 ****mail dupont
 mail: duponttest0@gmail.com
 mdp: putain de mot de passe
+
+**** discord
+mail: juleschristgbassi9@gmail.com
+password: Jules-christ1234
