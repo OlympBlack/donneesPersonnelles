@@ -90,3 +90,8 @@ mdp: putain de mot de passe
 **** discord
 mail: juleschristgbassi9@gmail.com
 password: Jules-christ1234
+
+***compte gitlab
+name user: Juleschrist
+password: Gudi76Yd^&Ww^bN
+mail: juleshritgbassi9@gmail.com
