@@ -99,3 +99,7 @@ mail: juleshritgbassi9@gmail.com
 ****compte psje
 mail: juleschristgbassi9@gmail.com
 mdp: Christ@1234
+
+****mail edo
+mail: edo251350@gmail.com
+mdp: putain de mot de passe
