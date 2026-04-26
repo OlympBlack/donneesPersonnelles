@@ -103,3 +103,7 @@ mdp: Christ@1234
 ****mail edo
 mail: edo251350@gmail.com
 mdp: putain de mot de passe
+
+****email resit
+mail: jgbassi@resit-technologies.com
+mdp: up32=?V6x[AX
