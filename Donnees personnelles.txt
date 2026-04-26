@@ -107,3 +107,4 @@ mdp: putain de mot de passe
 ****email resit
 mail: jgbassi@resit-technologies.com
 mdp: up32=?V6x[AX
+webmail: https://webmail.resit-technologies.com/cpsess8739699767/3rdparty/roundcube/?_task=mail
