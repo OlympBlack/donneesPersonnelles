@@ -112,3 +112,7 @@ webmail: https://webmail.resit-technologies.com/cpsess8739699767/3rdparty/roundc
 ****compte kkiapay
 mail: juleschristgbassi9@gmail.com
 mdp: Christ@123456
+
+****mail karicv
+mail: karicv229@gmail.com
+password: code secret
