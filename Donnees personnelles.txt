@@ -116,3 +116,9 @@ mdp: Christ@123456
 ****mail karicv
 mail: karicv229@gmail.com
 password: code secret
+
+
+****Compte IFU
+NPI: 84368652121
+password: 70@jc1234
+Question 1: qui est tu ? reponse: JC
