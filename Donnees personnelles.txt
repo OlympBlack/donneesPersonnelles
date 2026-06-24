@@ -122,3 +122,7 @@ password: code secret
 NPI: 84368652121
 password: 70@jc1234
 Question 1: qui est tu ? reponse: JC
+
+****IA imole
+mail: juleschristgbassi9@gmail.com
+password: CC1234567890
