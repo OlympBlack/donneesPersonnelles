@@ -127,6 +127,10 @@ Question 1: qui est tu ? reponse: JC
 mail: juleschristgbassi9@gmail.com
 password: CC1234567890
 
+****Browsec VPN
+mail: contact@fludicial.com
+pwd: Ch461994@
+
 
 ****info client drive
 GOOGLE_DRIVE_CLIENT_ID=58143138742-vprdg52bq65add0vnij5hain4m8bkhvu.apps.googleusercontent.com
