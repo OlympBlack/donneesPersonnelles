@@ -142,3 +142,8 @@ GOOGLE_DRIVE_FOLDER_ID=1ozY2LOcvZvVhsSW2wBBOFWu4YrYzqQJt
 mail principal: juleschristgbassi9@gmail.com
 mail secondaire: gbassijuleschrist@gmail.com
 password: 70@jc1234
+
+
+***irm activator MS
+lien: irm https://get.activated.win | iex
+description: lancer le cmd et coller le lien puis faire entrer
